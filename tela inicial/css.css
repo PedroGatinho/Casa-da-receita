@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(218, 181, 142);
+}
+
+.borda{
+    border: 2px solid rgb(102,40,20);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(218, 181, 142);
+}
+
+.direita{
+    float: right;
+}
+
+.centro{
+    margin: auto;
+}
+
+.final{
+    background-color: rgb(210,182,178);
+}
+
+.fonteComum{
+    color: rgb(140,124,118);
+}
+
+#tela{
+    width: 120px;
+    height: 100px;
+}
+
+.modelo{
+    border: black solid 2px;
+    width: 120px;
+    background-color: rgb(210,182,178);
+}
